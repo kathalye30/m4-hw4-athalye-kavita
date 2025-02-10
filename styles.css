@@ -16,6 +16,15 @@ section.singer {
     padding: 50 px 0 100px;
 }
 
+section h3 {
+    color: rgb(171, 52, 131);
+
+}
+
+section > h3 > ol {
+    color: blueviolet;
+}
+
 a{
     color: rgb(158, 27, 158);
 }
