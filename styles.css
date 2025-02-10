@@ -16,7 +16,11 @@ section.singer {
     padding: 50 px 0 100px;
 }
 
-section > h3 {
+section.bio h3 {
+    color: blueviolet(171, 52, 131);
+
+}
+section.wins h3 {
     color: blueviolet(171, 52, 131);
 
 }
