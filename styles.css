@@ -16,12 +16,12 @@ section.singer {
     padding: 50 px 0 100px;
 }
 
-section h3 {
+section.bio h3 {
     color: rgb(171, 52, 131);
 
 }
 
-section > h3 > ol {
+section.success > h3 > ol {
     color: blueviolet;
 }
 
