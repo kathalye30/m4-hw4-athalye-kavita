@@ -1,5 +1,6 @@
 body {
     background-color: rgb(255, 178, 191);
+    color: white;
     max-width: 900px;
     margin: auto;
 }
@@ -15,14 +16,11 @@ section.singer {
     padding: 50 px 0 100px;
 }
 
-section.bio h3 {
-    color: rgb(171, 52, 131);
+section > h3 {
+    color: blueviolet(171, 52, 131);
 
 }
 
-section.success > h3 > ol {
-    color: blueviolet;
-}
 
 a{
     color: rgb(158, 27, 158);
